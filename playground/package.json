@@ -1,7 +1,7 @@
 {
   "name": "@blocknote/example-editor",
   "private": true,
-  "version": "0.15.15",
+  "version": "0.15.16",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
@@ -12,12 +12,12 @@
   "dependencies": {
     "@aws-sdk/client-s3": "^3.609.0",
     "@aws-sdk/s3-request-presigner": "^3.609.0",
-    "@blocknote/ariakit": "^0.15.15",
-    "@blocknote/core": "^0.15.15",
-    "@blocknote/mantine": "^0.15.15",
-    "@blocknote/react": "^0.15.15",
-    "@blocknote/server-util": "^0.15.15",
-    "@blocknote/shadcn": "^0.15.15",
+    "@blocknote/ariakit": "^0.15.16",
+    "@blocknote/core": "^0.15.16",
+    "@blocknote/mantine": "^0.15.16",
+    "@blocknote/react": "^0.15.16",
+    "@blocknote/server-util": "^0.15.16",
+    "@blocknote/shadcn": "^0.15.16",
     "@emotion/react": "^11.11.4",
     "@emotion/styled": "^11.11.5",
     "@liveblocks/client": "^1.10.0",

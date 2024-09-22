@@ -3,7 +3,7 @@
   "homepage": "https://github.com/TypeCellOS/BlockNote",
   "private": false,
   "license": "MPL-2.0",
-  "version": "0.15.15",
+  "version": "0.15.16",
   "files": [
     "dist",
     "types",
@@ -47,8 +47,8 @@
     "test-watch": "vitest watch"
   },
   "dependencies": {
-    "@blocknote/core": "^0.15.15",
-    "@blocknote/react": "^0.15.15",
+    "@blocknote/core": "^0.15.16",
+    "@blocknote/react": "^0.15.16",
     "@tiptap/core": "^2.7.1",
     "@tiptap/pm": "^2.7.1",
     "jsdom": "^21.1.0",
@@ -83,5 +83,5 @@
     "access": "public",
     "registry": "https://registry.npmjs.org/"
   },
-  "gitHead": "c1f2549005413b72e32ecddd823b5f5634275b38"
+  "gitHead": "8f1136b0b7d357caaea2bbb3c7ea5c08ad274147"
 }
