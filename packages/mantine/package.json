@@ -6,7 +6,7 @@
     "*.css"
   ],
   "license": "MPL-2.0",
-  "version": "0.15.14",
+  "version": "0.15.15",
   "files": [
     "dist",
     "types",
@@ -51,8 +51,8 @@
     "clean": "rimraf dist && rimraf types"
   },
   "dependencies": {
-    "@blocknote/core": "^0.15.14",
-    "@blocknote/react": "^0.15.14",
+    "@blocknote/core": "^0.15.15",
+    "@blocknote/react": "^0.15.15",
     "@mantine/core": "^7.10.1",
     "@mantine/hooks": "^7.10.1",
     "@mantine/utils": "^6.0.21",
@@ -86,5 +86,5 @@
     "access": "public",
     "registry": "https://registry.npmjs.org/"
   },
-  "gitHead": "e615eacd48ed895f84a45021453d0fc846dd5e74"
+  "gitHead": "c1f2549005413b72e32ecddd823b5f5634275b38"
 }

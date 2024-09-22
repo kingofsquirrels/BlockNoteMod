@@ -4,7 +4,7 @@
   "private": false,
   "sideEffects": false,
   "license": "MPL-2.0",
-  "version": "0.15.14",
+  "version": "0.15.15",
   "files": [
     "dist",
     "types",
@@ -49,8 +49,8 @@
     "clean": "rimraf dist && rimraf types"
   },
   "dependencies": {
-    "@blocknote/core": "^0.15.14",
-    "@blocknote/react": "^0.15.14",
+    "@blocknote/core": "^0.15.15",
+    "@blocknote/react": "^0.15.15",
     "@hookform/resolvers": "^3.6.0",
     "@radix-ui/react-dropdown-menu": "^2.0.6",
     "@radix-ui/react-label": "^2.0.2",
@@ -101,5 +101,5 @@
     "access": "public",
     "registry": "https://registry.npmjs.org/"
   },
-  "gitHead": "e615eacd48ed895f84a45021453d0fc846dd5e74"
+  "gitHead": "c1f2549005413b72e32ecddd823b5f5634275b38"
 }
